@@ -11,4 +11,4 @@ Note: Codes are currently being updated. D-bar reconstructions codes will follow
 If you need the network files please contact: a.s.hauptmann@ucl.ac.uk
 
 - 26 February 2018: First commit
-- 30 June 2018: Python codes for evaluation of KIT4 data uploaded. (Network files too largey)
+- 30 June 2018: Python codes for evaluation of KIT4 data uploaded. (Network files too large)
