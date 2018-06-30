@@ -1,7 +1,6 @@
 # DeepDbar
 
 This repository will collect codes accompanying the publication:
-<<<<<<< HEAD
 Hamilton & Hauptmann (2018). Deep D-bar: Real time Electrical Impedance Tomography Imaging with Deep Neural Networks. IEEE Transactions on Medical Imaging.
 https://ieeexplore.ieee.org/document/8352045/
 
